@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9C623FB6-776D-4E69-BAC1-6498CD206D50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Challenge_createManyFolders/Program.cs">
+    <Files>
+      <File FileName="Challenge_createManyFolders/Program.cs" Line="9" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge_createManyFolders" expanded="True">
+            <Node name="Challenge_createManyFolders" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Challenge__createManyFolders FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

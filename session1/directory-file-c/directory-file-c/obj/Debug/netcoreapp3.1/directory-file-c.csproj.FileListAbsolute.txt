@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/bin/Debug/netcoreapp3.1/directory-file-c.deps.json
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/bin/Debug/netcoreapp3.1/directory-file-c.runtimeconfig.json
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/bin/Debug/netcoreapp3.1/directory-file-c.runtimeconfig.dev.json
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/bin/Debug/netcoreapp3.1/directory-file-c.dll
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/bin/Debug/netcoreapp3.1/directory-file-c.pdb
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.AssemblyInfo.cs
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.dll
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.pdb
+/Users/arwawanla/Projects/Day017/session1/directory-file-c/directory-file-c/obj/Debug/netcoreapp3.1/directory-file-c.genruntimeconfig.cache

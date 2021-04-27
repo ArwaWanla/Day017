@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Challenge_createManyFolders/1.0.0": {
+        "runtime": {
+          "Challenge_createManyFolders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge_createManyFolders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
